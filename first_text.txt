@@ -1,0 +1,1 @@
+hello there first text file for git.
